@@ -11,10 +11,13 @@ public class Calculator {
 	}
 	
 	public long getFirst() {
+		
+	//get first element
 		return first;
 	}
 
 	public long getSecond() {
+	//get second element	
 		return second;
 	}
 
